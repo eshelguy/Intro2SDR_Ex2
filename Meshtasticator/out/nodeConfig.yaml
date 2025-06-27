@@ -1,0 +1,30 @@
+0:
+  antennaGain: 0.0
+  hopLimit: 3
+  isClientMute: true
+  isRepeater: false
+  isRouter: false
+  neighborInfo: false
+  x: -1551.9310344827572
+  y: 3254.1102941176505
+  z: 1.0
+1:
+  antennaGain: 0.0
+  hopLimit: 3
+  isClientMute: false
+  isRepeater: false
+  isRouter: false
+  neighborInfo: false
+  x: 32.33189655172464
+  y: 2242.946078431376
+  z: 1.0
+2:
+  antennaGain: 0.0
+  hopLimit: 5
+  isClientMute: false
+  isRepeater: false
+  isRouter: false
+  neighborInfo: false
+  x: -1357.939655172413
+  y: 1553.5159313725508
+  z: 1.0
